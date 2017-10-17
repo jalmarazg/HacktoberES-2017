@@ -1,6 +1,6 @@
-// LANGUAGE: Kotlin
+// LENGUAJE: Kotlin
 // ENV: JVM
-// AUTHOR: Jose Almaraz
+// AUTOR: Jose Almaraz
 // GITHUB: https://github.com/LazarusPolar
 
 var hello = "¡Hola, soy un saludo escrito en Kotlin! :D"
