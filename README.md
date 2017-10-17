@@ -1,8 +1,10 @@
 # HacktoberFest 2017 en Español.
-Lugar para contribución de codigo para hispanohablantes en el evento ["HacktoberFest 2017"](https://hacktoberfest.digitalocean.com/). 
+Lugar de hispanohablantes para la contribución de codigo  en el evento ["HacktoberFest 2017"](https://hacktoberfest.digitalocean.com/). 
 
 ## ¿Como contribuir?
-Este repositorio fue creado para aquellas persona de habla hispana que deseen ingresar al mundo del Open Source formando parte de la celebración del "Hacktoberfest". 
+Este repositorio fue creado para aquellas persona de habla hispana que deseen ingresar al mundo del Open Source formando parte de la celebración del "Hacktoberfest".
+
+Esta es tu oportunidad de aprender lo más básico sobre como se hace para contribuir a un proyecto Open Source.
 
 Puedes contribuir al repositorio de la siguiente manera: 
 
@@ -10,7 +12,7 @@ Puedes contribuir al repositorio de la siguiente manera:
 
 2. Arreglando la estructura de carpetas.
 
-3. Corrección o adición de pasos en el archivo Readme.md
+3. Corrección o adición de pasos en el archivo README.md
 
 ## Pasos detallados para aportar al proyecto
 1. Realizar un "Fork" a este repositorio.
